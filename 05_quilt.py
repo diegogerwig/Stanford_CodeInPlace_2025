@@ -37,3 +37,6 @@ def draw_square_patch(canvas, start_x, start_y):
 
 if __name__ == '__main__':
     main()
+
+
+
