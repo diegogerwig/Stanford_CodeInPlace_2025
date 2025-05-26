@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Print numbers from 1 to MAX_NUMBER and whether each is even or odd.
 """

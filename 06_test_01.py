@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 NASA Astronaut Height Checker
 Checks if the user's height meets NASA astronaut requirements.
