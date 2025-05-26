@@ -13,9 +13,6 @@ LEAVES_SIZE = 60
 
 TREE_BOTTOM_Y = CANVAS_HEIGHT - 20 
 
-
-
-
 def main():
     canvas = Canvas(CANVAS_WIDTH, CANVAS_HEIGHT)
 
