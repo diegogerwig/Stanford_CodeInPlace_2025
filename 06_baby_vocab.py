@@ -39,3 +39,4 @@ def load_words_from_file(filepath):
 
 if __name__ == '__main__':
     main()
+
