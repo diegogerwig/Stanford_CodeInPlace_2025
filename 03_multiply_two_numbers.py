@@ -6,7 +6,6 @@ integers and prints the value of the first number
 multiplied with the second
 """
 
-
 def main():
     print("This program multiplies two numbers.")
     # Get the first number from the user
