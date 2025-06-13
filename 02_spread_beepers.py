@@ -1,5 +1,3 @@
-from karel.stanfordkarel import *
-
 """
 Beeper Distribution Program
 
@@ -8,6 +6,9 @@ Each row starts with a stack of beepers. Karel must pick them up one by one
 and spread them down the row. The challenge is that Karel can't count and
 starts with infinite beepers, so we need to be careful about the algorithm.
 """
+
+from karel.stanfordkarel import *
+
 
 def main():
     """
