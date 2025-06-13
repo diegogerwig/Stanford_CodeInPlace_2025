@@ -9,7 +9,6 @@ and spread them down the row. The challenge is that Karel can't count and
 starts with infinite beepers, so we need to be careful about the algorithm.
 """
 
-
 def main():
     """
     Main program execution: Karel moves forward once, spreads the beepers,
