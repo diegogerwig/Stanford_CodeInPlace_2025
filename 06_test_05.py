@@ -19,3 +19,4 @@ def draw_car(canvas, x, y):  # Changed: added parameters to receive canvas, x, y
 
 if __name__ == '__main__':
     main()
+    
