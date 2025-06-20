@@ -10,7 +10,6 @@ starts with infinite beepers, so we need to be careful about the algorithm.
 from karel.stanfordkarel import *
 
 
-
 def main():
     """
     Main program execution: Karel moves forward once, spreads the beepers,
