@@ -20,7 +20,6 @@ def main():
     find_first_beeper()
 
 
-
 def place_end_beepers():
     """Place beepers at both ends of the world."""
     put_beeper()  # Place beeper at starting position
