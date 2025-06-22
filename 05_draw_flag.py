@@ -3,6 +3,7 @@ from graphics import Canvas
 CANVAS_WIDTH = 450
 CANVAS_HEIGHT = 300
 
+
 def main():
     canvas = Canvas(CANVAS_WIDTH, CANVAS_HEIGHT)
     
