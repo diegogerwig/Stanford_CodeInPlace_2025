@@ -16,5 +16,6 @@ def main():
         # Print the random number on its own line
         print(random_number)
 
+
 if __name__ == '__main__':
     main()
