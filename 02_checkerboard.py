@@ -17,7 +17,6 @@ def main():
     return_to_starting_point()
 
 
-
 def draw_row():
     """
     Makes Karel draw a row by placing beepers
