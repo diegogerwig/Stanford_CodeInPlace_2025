@@ -25,6 +25,7 @@ def get_valid_index(displayed, prompt, other_index=None):
             continue
         return index
 
+
 def main():
     # Milestone 1: Create the truth list
     truth = []
@@ -57,6 +58,7 @@ def main():
 
     print(displayed)
     print("Congratulations! You won!")
+
 
 if __name__ == '__main__':
     main()
