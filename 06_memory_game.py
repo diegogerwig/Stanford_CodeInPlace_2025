@@ -6,6 +6,7 @@ def clear_terminal():
     for _ in range(20):
         print()
 
+
 def get_valid_index(displayed, prompt, other_index=None):
     while True:
         index_str = input(prompt)
