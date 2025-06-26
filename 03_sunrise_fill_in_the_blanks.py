@@ -5,7 +5,6 @@ We will then turn them into a one sentence story.
 """
 
 
-
 def main():
     color = input("A color: ")
     adjective = input("An adjective: ")
