@@ -27,6 +27,5 @@ def main():
     print(haiku)
 
 
-
 if __name__ == "__main__":
     main()
