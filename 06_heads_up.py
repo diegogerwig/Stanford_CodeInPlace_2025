@@ -21,6 +21,7 @@ def get_words_from_file():
     return lines
 
 
+
 def main():
     # Milestone #1: Read the words from the file using the provided function
     words = get_words_from_file()
