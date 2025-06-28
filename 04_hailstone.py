@@ -20,6 +20,6 @@ def main():
             break
         n = next_n
 
-ç
+
 if __name__ == "__main__":
     main()
