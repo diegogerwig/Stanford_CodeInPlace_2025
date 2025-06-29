@@ -1,4 +1,3 @@
-
 def main():
     """
     Implementation of the Ancient Game of Nimm where:
