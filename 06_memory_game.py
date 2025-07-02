@@ -6,7 +6,6 @@ def clear_terminal():
     for _ in range(20):
         print()
 
-
 def get_valid_index(displayed, prompt, other_index=None):
     while True:
         index_str = input(prompt)
@@ -24,7 +23,6 @@ def get_valid_index(displayed, prompt, other_index=None):
             print("You entered the same index twice. Try again.")
             continue
         return index
-
 
 def main():
     # Milestone 1: Create the truth list
@@ -58,7 +56,6 @@ def main():
 
     print(displayed)
     print("Congratulations! You won!")
-
 
 if __name__ == '__main__':
     main()
