@@ -24,6 +24,7 @@ DELAY = 0.01
 # Colors for brick rows (rainbow sequence)
 BRICK_COLORS = ["red", "red", "orange", "orange", "yellow", "yellow", "green", "green", "cyan", "cyan"]
 
+
 def main():
     canvas = Canvas(CANVAS_WIDTH, CANVAS_HEIGHT)
     
